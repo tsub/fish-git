@@ -1,6 +1,6 @@
 # fish-git
 
-Provides zimframework/git like git aliases and functions.
+Provides zimframework/git like git abbreviations and functions.
 
 ## Install
 
