@@ -4,10 +4,10 @@ Provides zimframework/git like git abbreviations and functions.
 
 ## Install
 
-With [fisherman]
+With [fisher]
 
 ```
-fisher tsub/fish-git
+fisher install tsub/fish-git
 ```
 
-[fisherman]: https://github.com/fisherman/fisherman
+[fisher]: https://github.com/jorgebucaran/fisher
